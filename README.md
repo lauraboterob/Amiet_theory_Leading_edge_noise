@@ -51,6 +51,12 @@ As last, the user needs to select eaither apply a correction or not for the diss
 
 The comparison of Amiet's theory with wind tunnel experiments for several airfoils is shown in: L. Botero-Bolívar, F. L. dos Santos, C. H. Venner, and L. D. de Santana. Experimental and predicted leading- and trailing-edge noise of symmetric airfoils under zero mean-loading. In: Applied Acoustics 212 (2023), p. 109579. DOI: 10.1016/j.apacoust.2023.109579.
 
+## Funding Sources
+This research received financial support from the European Commission through the H2020-MSCA-ITN-209 project zEPHYR (grant agreement No 860101).
+
+## Acknowledgments
+The author would like to thank Ing. Ir. Andrea Bresciani for all the support in validating Amiet's code. We would like to thank Ing. Ir. Fernanda L. dos Santos for all the support through the development of the code.
+
 ## References:
 [1] Amiet, R., “Acoustic radiation from an airfoil in a turbulent stream,” Journal of Sound and Vibration, Vol. 41, No. 4, 1975, pp. 407–420. https://doi.org/10.1016/S0022-460X(75)80105-2.
 [2] Bresciani, A. P., Le Bras, S., and de Santana, L. D., “Generalization of Amiet’s theory for small reduced-frequency and nearly-critical gusts,” Journal of sound and vibration, Vol. 524, 2022, p. 116742. https://doi.org/10.1016/j.jsv.2021.116742.
